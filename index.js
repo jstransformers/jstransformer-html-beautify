@@ -1,8 +1,8 @@
-'use strict';
+'use strict'
 
-var beautify = require('js-beautify').html_beautify;
+var beautify = require('js-beautify').html_beautify
 
-exports.name = 'html-beautify';
-exports.outputFormat = 'html';
+exports.name = 'html-beautify'
+exports.outputFormat = 'html'
 
-exports.render = beautify;
+exports.render = beautify
