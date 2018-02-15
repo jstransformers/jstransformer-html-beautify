@@ -1,4 +1,7 @@
 {
+  "dependencies": {
+    "js-beautify": "^1.5.10"
+  },
   "name": "jstransformer-html-beautify",
   "version": "0.0.1",
   "description": "HTML Beautifier support for JSTransformers.",
@@ -16,7 +19,7 @@
     "test": "test-jstransformer",
     "coverage": "test-jstransformer coverage",
     "test": "test-jstransformer",
-    "posttest": "xo --space --no-semicolon index.js"
+    "posttest": "xo --space=2 --no-semicolon index.js"
   },
   "engines": {
     "node": ">=4"
@@ -29,8 +32,5 @@
     "name": "JSTransformers Team",
     "url": "http://github.com/orgs/jstransformers/people"
   },
-  "license": "MIT",
-  "dependencies": {
-    "js-beautify": "^1.5.10"
-  }
+  "license": "MIT"
 }
