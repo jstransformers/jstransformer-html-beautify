@@ -1,7 +1,5 @@
 # jstransformer-html-beautify
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-html-beautify.svg)](https://greenkeeper.io/)
-
 [JS Beautifier HTML](https://github.com/beautify-web/js-beautify) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-html-beautify/master.svg)](https://travis-ci.org/jstransformers/jstransformer-html-beautify)
